@@ -1,7 +1,9 @@
 {
     "name": "Xavi.XaviEssencials.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:1633a41e6b26d0d4898e64ff8ea0b6d2"
+    ],
     "includePlatforms": [
         "Android",
         "Editor",
