@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace XaviEssencials.Editor
 {
+    [CanEditMultipleObjects]
     [CustomEditor(typeof(MonoBehaviour), true)]
     public class ButtonEditor : UnityEditor.Editor
     {

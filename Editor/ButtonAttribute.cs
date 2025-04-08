@@ -14,5 +14,11 @@ namespace XaviEssencials.Editor
             ButtonName = buttonName;
             ShowInPlayModeOnly = showInPlayModeOnly;
         }
+
+        public ButtonAttribute(bool showInPlayModeOnly = false)
+        {
+            ButtonName = string.Empty;
+            ShowInPlayModeOnly = showInPlayModeOnly;
+        }
     }
 }
