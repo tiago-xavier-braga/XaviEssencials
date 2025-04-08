@@ -1,0 +1,13 @@
+{
+    "name": "com.xavigames.xaviessencials",
+    "version": "1.0.0",
+    "displayName": "Xavi Essencials",
+    "description": "Pacote reservado para scripts que são geralmente utilizados em todos os projetos",
+    "unity": "2021.3",
+    "author": {
+      "name": "Tiago Braga",
+      "email": "braga.tiagoxavier@gmail.com",
+      "url": "https://github.com/tiago-xavier-braga"
+    }
+  }
+  
