@@ -2,10 +2,10 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace XaviEssencials
+namespace XaviEssencials.Editor
 {
     [CustomEditor(typeof(MonoBehaviour), true)]
-    public class ButtonEditor : Editor
+    public class ButtonEditor : UnityEditor.Editor
     {
         public override void OnInspectorGUI()
         {

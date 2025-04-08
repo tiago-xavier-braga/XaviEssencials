@@ -1,0 +1,18 @@
+{
+    "name": "XaviEssencials.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:943f96bc7395d734683609839c726e2c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

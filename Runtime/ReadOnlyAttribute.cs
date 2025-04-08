@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace XaviEssencials
+namespace XaviEssencials.Runtime
 {
     public class ReadOnlyAttribute : PropertyAttribute
     {
