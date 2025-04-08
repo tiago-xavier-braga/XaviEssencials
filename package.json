@@ -2,7 +2,7 @@
     "name": "com.xavigames.xaviessencials",
     "version": "1.0.0",
     "displayName": "Xavi Essencials",
-    "description": "Pacote reservado para scripts que são geralmente utilizados em todos os projetos",
+    "description": "XaviEssentials is a lightweight and modular Unity package that provides essential utility scripts to accelerate and standardize your development workflow across all your Unity projects.",
     "unity": "2021.3",
     "author": {
       "name": "Tiago Braga",
