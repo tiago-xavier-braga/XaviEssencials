@@ -16,4 +16,3 @@ namespace XaviEssencials
         public string SceneName { get; private set; }
     }
 }
-
