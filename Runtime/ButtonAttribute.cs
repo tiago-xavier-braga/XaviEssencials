@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace XaviEssencials.Editor
+namespace XaviEssencials.Shared
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class ButtonAttribute : PropertyAttribute

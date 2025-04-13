@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 namespace XaviEssencials.Runtime
 {
     [System.Serializable]
-    [CreateAssetMenu(fileName = "SceneBundle_", menuName = "Xavi Games/SceneBundle")]
+    [CreateAssetMenu(fileName = "SceneBundle_", menuName = "Xavi Essencials/SceneBundle")]
     public class SceneBundle : ScriptableObject
     {
         [field: Space]

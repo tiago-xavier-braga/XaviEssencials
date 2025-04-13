@@ -1,6 +1,7 @@
 using System.Reflection;
 using UnityEditor;
 using UnityEngine;
+using XaviEssencials.Shared;
 
 namespace XaviEssencials.Editor
 {
